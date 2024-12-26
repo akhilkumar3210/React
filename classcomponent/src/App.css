@@ -1,0 +1,15 @@
+body{
+  text-align: center;
+  justify-content: center;
+}
+
+h1{
+  text-align: center;
+  color: goldenrod;
+  font-size: 300PX;
+}
+
+h2{
+  color: rgba(17, 189, 241, 0.233) ;
+}
+
